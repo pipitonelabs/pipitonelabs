@@ -10,8 +10,10 @@ My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure 
 
 - 🤔 I’m actively searching for a new full time role
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 - **[k8s-gitops](https://github.com/josephpipitone/k8s-gitops)**: HomeLab Kubernetes cluster deployed with Talos Linux; automated via Flux, Renovate, and GitHub Actions 🤖
+- **[docker-homelab](https://github.com/josephpipitone/docker-homelab)**: HomeLab Docker and profile configurations meant to be deployed on an LXC container in a Proxmox environment 🖥️
+
 
 ## 📫 Contact
 - Email: joseph.pipitone@gmail.com

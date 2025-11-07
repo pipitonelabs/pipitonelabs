@@ -6,6 +6,8 @@ My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure 
 
 - 🌱 I plan on learning n8n next
 
+- 💾 I like to continuously expand my knowledge using my homelab environment to deploy and experiment with open source technologies
+
 - 🤔 I’m actively searching for a new full time role
 
 ## 🌟 Featured Project

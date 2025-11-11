@@ -15,7 +15,8 @@ My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure 
 - **[docker-homelab](https://github.com/josephpipitone/docker-homelab)**: HomeLab Docker and profile configurations meant to be deployed on an LXC container in a Proxmox environment 🖥️
 - **[react-github-visualizer](https://github.com/josephpipitone/react-github-visualizer)**: Using React and Vite to build a simple GitHub visualization tool
 - **[ecs-fargate-webapp](https://github.com/josephpipitone/ecs-fargate-webapp)**: Template for various ECS Fargate deployments, with a standard nginx config.
-
+- **[nodejs-crypto-tracker](https://github.com/josephpipitone/nodejs-crypto-tracker)**: A web application that tracks real-time cryptocurrency prices, analyzes sentiment from X (Twitter), and provides price predictions based on historical trends.
+- **[next-weather-static](https://github.com/josephpipitone/next-weather-static)**: A web application to Get current weather and forecasts for any location.
 
 ## 📫 Contact
 - Email: joseph.pipitone@gmail.com

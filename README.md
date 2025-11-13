@@ -22,4 +22,4 @@ My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure 
 ## 📫 Contact
 - Email: joseph.pipitone@gmail.com
 - LinkedIn: [link](https://linkedin.com/in/jpipitone)
-- Resume: [link](https://resume.tslamars.com) (Hosted in my Kubernetes cluster)
+- Resume: [link](https://resume.tslamars.com) (Hosted in my [Kubernetes cluster](https://github.com/josephpipitone/k8s-gitops/blob/main/kubernetes/apps/default/nginx/app/helmrelease.yaml))

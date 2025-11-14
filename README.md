@@ -13,7 +13,7 @@ My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure 
 ## 🌟 Featured Projects
 - **[k8s-gitops](https://github.com/josephpipitone/k8s-gitops)**: HomeLab Kubernetes cluster deployed with Talos Linux; automated via Flux, Renovate, and GitHub Actions. 🤖
 - **[docker-homelab](https://github.com/josephpipitone/docker-homelab)**: HomeLab Docker and profile configurations meant to be deployed on an LXC container in a Proxmox environment. 🖥️
-- **[talos-k8s-iac](https://github.com/josephpipitone/talos-k8s-iac)**: Experiment to get Talos and k8s running in a Proxmox environment. Uses Packer, Terraform, talosctl, talhelper, kubectl, sops, age, Cilium, Proxmox.
+- **[talos-k8s-iac](https://github.com/josephpipitone/talos-k8s-iac)**: Experiment to get Talos and k8s running in a Proxmox environment using IaC practices. Uses Packer, Terraform, talosctl, talhelper, kubectl, sops, age, Cilium, Proxmox.
 - **[app-nginx-main](https://github.com/josephpipitone/app-nginx-main)**: Custom nginx image for testing purposes, scanned for vunlerabilities using Trivy, can be deployed to any platform that supports image references.
 - **[react-github-visualizer](https://github.com/josephpipitone/react-github-visualizer)**: Using React and Vite to build a simple GitHub visualization tool.
 - **[ecs-fargate-webapp](https://github.com/josephpipitone/ecs-fargate-webapp)**: Template for various ECS Fargate deployments, with a standard nginx config.

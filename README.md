@@ -1,14 +1,16 @@
 ## Welcome 👋
 
-My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure & Automation, and GitOps / Kubernetes.
+My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure & Automation, and Kubernetes using a GitOps approach.
 
 - 🔭 Kubernetes inspires me.
 
-- 🌱 I plan on learning n8n next.
+- 🌱 I am currently learning n8n.
 
 - 💾 I like to continuously expand my knowledge using my homelab environment to deploy and experiment with open source technologies.
 
 - 🤔 I’m actively searching for a new full time Cloud Engineer, DevOps Engineer, or Systems Engineer role.
+
+- 🚀 I’m currently pursuing the AWS Certified DevOps Engineer Professional and AWS Certified Generative AI Developer Professional certifications.
 
 ## 🌟 Featured Projects
 - **[k8s-gitops](https://github.com/pipitonelabs/k8s-gitops)**: HomeLab Kubernetes cluster deployed with Talos Linux; automated via Flux, Renovate, and GitHub Actions. 🤖

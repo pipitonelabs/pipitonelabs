@@ -14,7 +14,7 @@ My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure 
 
 ## 🌟 Featured Projects
 - **[k8s-gitops](https://github.com/pipitonelabs/k8s-gitops)**: HomeLab Kubernetes cluster deployed with Talos Linux; automated via Flux, Renovate, and GitHub Actions. 🤖
-- **[pipitone-claude-code](https://github.com/pipitonelabs/pipitone-claude-code)**: My personal Claude Code configuration for productive web development. This plugin provides 14 slash commands and 159 specialized AI agents to supercharge your development workflow.
+- **[pipitone-claude-code](https://github.com/pipitonelabs/pipitone-claude-code)**: My personal Claude Code configuration for productive development. This plugin provides 14 slash commands and 159 specialized AI agents.
 - **[docker-homelab](https://github.com/pipitonelabs/docker-homelab)**: HomeLab Docker and profile configurations meant to be deployed on an LXC container in a Proxmox environment. 🖥️
 - **[talos-k8s-iac](https://github.com/pipitonelabs/talos-k8s-iac)**: Experiment to get Talos and k8s running in a Proxmox environment using IaC practices. Uses Packer, Terraform, talosctl, talhelper, kubectl, sops, age, Cilium, Proxmox.
 - **[pipitonelabs.com](https://github.com/pipitonelabs/pipitonelabs.com)**: Template based personal blog built with Astro, Tailwind and shadcn/ui.  

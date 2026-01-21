@@ -8,8 +8,6 @@ My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure 
 
 - 💾 I like to continuously expand my knowledge using my homelab environment to deploy and experiment with open source technologies.
 
-- 🤔 I’m actively searching for a new full time Cloud Engineer, DevOps Engineer, or Systems Engineer role.
-
 - 🚀 I’m currently pursuing the AWS Certified DevOps Engineer Professional and AWS Certified Generative AI Developer Professional certifications.
 
 ## 🌟 Featured Projects
